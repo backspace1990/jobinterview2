@@ -1,0 +1,5 @@
+storages/postgresdata/*
+__pycache__/
+app/__pycache__
+.idea
+.env
